@@ -1,4 +1,4 @@
-## Abouto
+## About
 A set of scripts to save clipboard texts to a file and retrieve them using rofi.
 
 ## Usage
